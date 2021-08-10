@@ -19,15 +19,3 @@ body{
   justify-content: space-between;
   align-items: center;
 }
-
-h6{
-  text-align: right;
-}
-
-h4{
-  text-align: left
-}
-
-h5{
-  text-align: center
-}
