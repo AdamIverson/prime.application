@@ -19,3 +19,12 @@ body{
   justify-content: space-between;
   align-items: center;
 }
+
+.edu-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background-color: rgba(0,0,0, 0.1)
+  
+}
